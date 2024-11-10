@@ -1,7 +1,7 @@
-public class Hello2
+public class Hello2 #from Dev2 file2
 {
-public static void main(String args[])
+public static void main(String args[]) #from Dev2 file2
 {
-System.out.println("Hello2");
+System.out.println("Hello2"); #from Dev2 file2
 }
 }

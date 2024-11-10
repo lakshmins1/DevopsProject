@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 public class Hello #from file1.txt dev2
 {
 public static void main(String args[]) #from file1.txt dev2
+=======
+public class Hello  #from Dev1 file1
+{
+public static void main(String args[]) #from Dev1 file1
+>>>>>>> e5764cdbf98bc98318ab3732ddb14e05fd9c3059
 {
 System.out.println("Hello"); #from Dev1 file1
 }
